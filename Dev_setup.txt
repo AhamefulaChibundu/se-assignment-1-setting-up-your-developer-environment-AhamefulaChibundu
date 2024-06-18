@@ -1,4 +1,4 @@
-##HOW TO INSTALL PYTHON ON WINDOWS
+HOW TO INSTALL PYTHON ON WINDOWS
 
 Here is how I installed python on my computer. If you follow the steps below, you can successfully 
 install python on your computer also. The steps are as follows:
@@ -15,5 +15,22 @@ install python on your computer also. The steps are as follows:
     5. Finally, you have to confirm if your python was successfully installed by going to “start”, 
     search and click on cmd which is your command line. Once it opens, type the command 
     “python--version” and the version of the python you installed would be displayed.
-    
+
 Hurray! You’ve successfully installed python on windows.
+
+
+HOW TO INSTALL VSCODE ON WINDOWS
+
+VsCode is also known as  Visual studio code. It is a text editor used for writing python codes. 
+Installing VsCode is also easy, follow the following steps and you will be able to successfully 
+install it:
+    1. Visit code.visualstudio.com, Click on download for Windows and it would download a file.
+    2. Once the download is complete, double click on the downloaded file and an installation 
+    page shoild come up.
+    3. Click on “I accept the agreement”, click on “next”.
+    4. You can choose to check the “Create a desktop icon” if you want an icon to be created
+    on your desktop after installation, then click next and then click "install". 
+    5. After successful installation click on "finish".
+
+VsCode is successfully installed.
+
