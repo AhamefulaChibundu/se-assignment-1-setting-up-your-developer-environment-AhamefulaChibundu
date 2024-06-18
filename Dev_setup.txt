@@ -1,0 +1,4 @@
+HOW TO INSTALL PYTHON ON WINDOWS 
+Here is how I installed python on my computer. If you follow the steps below, you can successfully install python on your computer also. The steps are as follows:
+1. Visit www.python.org and then download the latest version. The latest version when I downloaded mine was python3.12.3. when you visit the link, you should see a page like this:
+![download page](images/C:\Users\SHOPINVERSE\Desktop\plp_ass_2\week_2_ass_1\se-assignment-1-setting-up-your-developer-environment-AhamefulaChibundu\images\Welcome to Python.org - Google Chrome 5_18_2024 5_05_58 PM.png)
