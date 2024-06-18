@@ -41,7 +41,7 @@ This assignment aims to familiarize you with the tools and configurations necess
 - A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore).
 - A reflection on the challenges faced during setup and strategies employed to overcome them.
 
-![download page](images/C:\Users\SHOPINVERSE\Desktop\plp_ass_2\week_2_ass_1\se-assignment-1-setting-up-your-developer-environment-AhamefulaChibundu\images\Welcome to Python.org - Google Chrome 5_18_2024 5_05_58 PM.png)
+![download page](images\C:\Users\SHOPINVERSE\Desktop\plp_ass_2\week_2_ass_1\se-assignment-1-setting-up-your-developer-environment-AhamefulaChibundu\images\Welcome to Python.org - Google Chrome 5_18_2024 5_05_58 PM.png)
 
 #Submission:
 Submit your document and GitHub repository link through the designated platform or email to the instructor by the specified deadline.
