@@ -34,3 +34,46 @@ install it:
 
 VsCode is successfully installed.
 
+
+HOW TO INSTALL MYSQL
+
+MYSQL is an open source database management system. To install MYSQL, follow the following steps:
+    1. Visit https://dev.mysql.com/downloads/installer/  then download windows MSI installer 
+    (Mysql installer community).
+    2. Double click the downloaded file and an installation installer would open
+    3. Tick ‘developer default’ and click next and then click execute to install packets
+    4. Click next for configurations, do not change any settings in network settings.
+    5. Create a password, next and execute. Mysql should install successfully. Click on finish.
+    6. To confirm if it was successfully installed, go to your command prompt, and then type 
+    the command ‘mysql —version’ and the version should display.
+
+MYSQL is installed successfully.
+
+
+HOW TO INSTALL AND CONFIGURE GIT
+
+To install git successfully and configure, follow the following steps:
+
+    1. Visit https://www.git-scm.com/downloads
+    2. Select your operating system. For me I chose windows because I am using a windows system. 
+    After clicking on windows, it takes you to another page
+    3. Select the one suitable for your system, my system is a 64-bit system so I chose that and 
+    downloaded. (if you do not know your system specification, simply right click on the windows 
+    icon and click on system)
+    4. After downloading, double click on the file, it would ask for administrator privilege, 
+    accept it and then an installation wizard should come up.
+    5. Agree with the terms and conditions, then Click on install
+    6. Tick launch Git Bash and then click on finish. Your Git has been successfully installed.
+    7. Once the Git bash launches, the next step is configuration. 
+    Use the command git config –global user.name ‘your_username’ then hit enter to set username
+    Also use git config –global user.email ’your_email@email.com’ to set youremail.
+    8. To confirm if it was set successfully, use git config –list to list configurations. 
+    After viewing press q to quit the page.
+
+With the abov steps, you can install and configure git successfully.
+
+
+Author: Ahamefula Chibundu Uchechi
+Email: ahamefulachibundu@gmail.com
+
+
